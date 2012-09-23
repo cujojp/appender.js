@@ -47,6 +47,13 @@
 // DEPENDENCIES:
 // - /public/javascript/libs/jquery-1.7.2.js
 //
+//
+// Copyright 2012 Kaleb White
+// http://cujo.jp/
+//
+// Licensed under the MIT license:
+// http://www.opensource.org/licenses/mit-license.php
+//
 /////////////////////////////////////
 
 !(function( $, window, document, undefined ){
