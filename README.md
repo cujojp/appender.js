@@ -46,6 +46,16 @@ HTML Example:
 
 Also add empty elements for content which will be added at its specific breakpoint.
 
+
+Running appender.js is simple! 
+
+    <script type="text/javascript">
+      !function( $ ) {
+        $.fn.appender({ appendedModule: '.moving-content' })
+      }( jQuery )
+    </script>
+
+
 ----------------------------------------------------------
 
 Options
